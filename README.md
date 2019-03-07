@@ -1,7 +1,9 @@
 # videodemo
 #####
 解决原生webview播放视频的全屏问题
-
+参考：https://github.com/lulululbj/webviewvideodemo
+在其上进行优化
+webview实现全屏播放的一种方式
 
 
 webview实现全屏播放的一种方式
